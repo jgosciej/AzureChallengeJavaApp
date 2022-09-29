@@ -1,4 +1,5 @@
-# Azure Webinar example
+# Challenge: part 2 
+# Spring Boot Application
 
 This is a simple full stack Azure example, which connects to a SQL Server database running in Azure, with the example data set. The Spring Boot application connects to that database using Spring Data's repository helpers and a Vaadin UI lets end users view and modify the data.
 
